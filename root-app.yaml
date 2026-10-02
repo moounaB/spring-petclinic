@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<identifiant>/<votre-repo-gitops>.git
+    repoURL: https://github.com/moounaB/spring-petclinic.git
     targetRevision: HEAD
     path: cluster-config
   destination:
